@@ -1,0 +1,9 @@
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\bin\Debug\5.12.09_ICopmarer_person.exe.config
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\bin\Debug\5.12.09_ICopmarer_person.exe
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\bin\Debug\5.12.09_ICopmarer_person.pdb
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\5.12.09_ICopmarer_person.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\5.12.09_ICopmarer_person.exe
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\5.12.09_ICopmarer_person.pdb
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\_5._12._09_ICopmarer_person.MainForm.resources
+C:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\5.12.09_ICopmarer_person.csproj.GenerateResource.cache
+c:\Users\Gil\source\repos\5.12.09_ICopmarer_person\5.12.09_ICopmarer_person\obj\Debug\5.12.09_ICopmarer_person.csproj.CoreCompileInputs.cache
